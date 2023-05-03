@@ -12,7 +12,7 @@ from config import *
 # Location of the file you want to transcribe. Should include filename and extension.
 # Example of a local file: ../../Audio/life-moves-pretty-fast.wav
 # Example of a remote file: https://static.deepgram.com/examples/interview_speech-analytics.wav
-FILE = 'audio/ece.m4a'
+FILE = 'audio/e.m4a'
 
 # Mimetype for the file you want to transcribe
 # Include this line only if transcribing a local file
