@@ -5,10 +5,6 @@ import asyncio
 import json
 from config import *
 
-
-# Your Deepgram API Key
-# DEEPGRAM_API_KEY = '755a63d69f32a7a59440792c6d5e49d46e6e965e'
-
 # Location of the file you want to transcribe. Should include filename and extension.
 # Example of a local file: ../../Audio/life-moves-pretty-fast.wav
 # Example of a remote file: https://static.deepgram.com/examples/interview_speech-analytics.wav
