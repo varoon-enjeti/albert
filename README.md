@@ -8,7 +8,7 @@ Heritage & Intermediate Language Learners
 ### Problem:
 The existing landscape of speech-to-text APIs provides valuable functionality for converting spoken language into written text. However, these APIs are primarily designed to handle single-language inputs, resulting in limitations when dealing with mixed-language scenarios.
 <br>  
-More Specifically, the absence of a reliable Mixed-Language Interpreting Speech-to-Text API poses a significant challenge for various applications, especially for language learning platforms with speaking components. Currently, users who speak multiple languages, especially at the intermediate or heritage level, face difficulties in accurately transcribing their speech when they switch between languages within a single sentence or paragraph. This limitation hampers the effectiveness and usability of speech-to-text technology for linguistic analysis.
+More specifically, the absence of a reliable Mixed-Language Interpreting Speech-to-Text API poses a significant challenge for various applications, especially for language learning platforms with speaking components. Currently, users who speak multiple languages, especially at the intermediate or heritage level, face difficulties in accurately transcribing their speech when they switch between languages within a single sentence or paragraph. This limitation hampers the effectiveness and usability of speech-to-text technology for linguistic analysis.
 <br>  
 Consider the scenario where a learner has intermediate or heritage level proficiency in Korean and native proficiency in English, utilizing a language learning application that can listen to their voice and provide linguistic analysis feedback. These speakers often encounter limitations in their vocabulary and may find it challenging to fully express themselves in the learning language. As a result, they resort to incorporating words or phrases from their native language within their speech. Existing speech-to-text APIs struggle to accurately interpret and transcribe these mixed-language inputs, leading to incomplete or inaccurate transcriptions. This deficiency in handling mixed-language scenarios poses a significant obstacle for language learning analysis.
 
@@ -28,4 +28,4 @@ By analyzing the confidence values and cross-referencing the translations, we ca
   - [Deepgram API](https://deepgram.com)
   - Pandas
 <br>   
-Readme succinctly written using the beloved ChatGPT
+Readme succinctly written using ChatGPT
