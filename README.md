@@ -28,4 +28,3 @@ By analyzing the confidence values and cross-referencing the translations, we ca
   - [Deepgram API](https://deepgram.com)
   - Pandas
 <br>   
-Readme succinctly written using ChatGPT
