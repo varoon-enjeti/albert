@@ -4,7 +4,6 @@
 
 ### Use Case:
 Heritage & Intermediate Language Learners
-commit
 
 ### Problem:
 The existing landscape of speech-to-text APIs provides valuable functionality for converting spoken language into written text. However, these APIs are primarily designed to handle single-language inputs, resulting in limitations when dealing with mixed-language scenarios.
