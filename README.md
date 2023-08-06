@@ -1,5 +1,4 @@
 # Mixed-Language Interpreting Speech-to-Text API
-commot
 
 ### This Project is a Work-In-Progress
 
