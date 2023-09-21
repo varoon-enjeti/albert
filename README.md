@@ -1,7 +1,5 @@
 # Mixed-Language Interpreting Speech-to-Text API
 
-### This Project is a Work-In-Progress
-
 ### Use Case:
 Heritage & Intermediate Language Learners
 
